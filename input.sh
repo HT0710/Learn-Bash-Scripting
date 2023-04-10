@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/bash
 
 echo "Read User Input"
 echo
